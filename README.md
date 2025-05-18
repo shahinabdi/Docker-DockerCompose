@@ -1,6 +1,6 @@
 # Docker Flask MongoDB Tutorial
 
-A comprehensive Docker tutorial for setting up a Flask web application with MongoDB and Mongo Express on Debian 12.
+A comprehensive Docker tutorial for setting up a Flask web application with MongoDB and Mongo Express on Docker Compose.
 
 ## Overview
 
